@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1743445502 source:c:\mingw64\programasc\sequencialc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1754433625 source:c:\mingw64\programasc\sequencialc\terrenos.c
+	<stdio.h>
+	<string.h>
+
