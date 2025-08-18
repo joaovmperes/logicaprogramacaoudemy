@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1755530877 source:c:\mingw64\programasc\tempojogoc\main.c
+	<stdio.h>
+	<stdlib.h>
+
