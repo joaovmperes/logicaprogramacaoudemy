@@ -20,9 +20,10 @@ int main()
         else if (x<0 && y<0){
             printf("3 quadrante\n");
         }
-        else {
+        else if (x>0 && y<0){
             printf("4 quadrante\n");
         }
+
     }
 
     return 0;
