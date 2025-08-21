@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1755797361 source:c:\mingw64\programasc\diagonalmatrizesc\main.c
+	<stdio.h>
+	<stdlib.h>
+
